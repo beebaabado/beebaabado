@@ -2,6 +2,7 @@
 
 <!--
 **beebaabado/beebaabado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 Here are some ideas to get you started:
 
@@ -16,4 +17,3 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I have been a Colorado Master Gardener for over 10 years through Colorado State University Extension. I find plant biology fascinating.
--->
