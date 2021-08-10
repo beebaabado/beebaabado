@@ -1,4 +1,4 @@
-### Hi 👋 I'm Connie
+### Hi 👋  I'm Connie
 
 <!--
 **beebaabado/beebaabado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,6 @@ I’m looking to collaborate on projects for non-proifts.  I feel compelled to h
 💬 Feel free to contact me.  I would love to volunteer my technical expertise to your non-profit. 📫 You can email me at connie@wright.cool.  Would love to hear from you!
 - 
 
-- ⚡ Fun fact: I have been a Colorado Master Gardener for over 10 years through Colorado State University Extension. I love plants 🌿 🌳 🌸 of all kinds and sizes!
+- ⚡ Fun fact: I have been a Colorado Master Gardener for over 10 years through the Colorado State University Extension Program. I love plants 🌿 🌳 🌸 of all kinds and sizes!
 
 -->
